@@ -1,0 +1,1 @@
+Enter the length of the rectangle: Enter the width of the rectangle: The area of the rectangle is: 40.00
